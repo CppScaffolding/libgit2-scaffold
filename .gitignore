@@ -1,0 +1,4 @@
+## .gitignore file for libgit2-scaffold
+
+## ignore folder fetched through gclient
+libgit2
